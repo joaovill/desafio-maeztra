@@ -1,3 +1,24 @@
+# CONSIDERAÇÕES João Pedro
+
+## Teste Lógico
+
+Teste iniciado quarta-feira(30/08), o teste lógico foi iniciado primeiro realizado dentro do tempo que consegui durante minha semana, todas as questões foram solucionadas, e meus comentários sobre minhas idéias estão nas respectivas questões.
+
+## Teste de Layout
+
+Teste de Layout dentro do possível realizei, como eu já havia um teste hospedado em meu usuário no github,
+acabei não optando por ferramentas SPA(Single Page application, se necessário possuo exemplos de back-end comunicando com aplicação em react no meu GITHUB), usei um app antigo que estava para fazer os carousel(Owl Carousel)
+HTML e CSS puro, com auxilio do bootstrap4 para umas seções.
+
+Tendo em vista o tempo que tive, não consegui finalizar por completo o layout, apenas pois não tratei as seções em Desktop, eu havia recebido dois prazos em dois e-mail diferentes se me for permitido finalizarei o layout Desktop até segunda-feira(04/09).
+
+Tudo de mobile foi realizado.
+
+Git Desafio Lógico para acompanhar os commits: [LINK](https://github.com/joaovill/desafio-maeztra)
+
+Pages do meu User com o teste: [LINK](https://joaovill.github.io/)
+
+------------------------------------------------------------------------------------------------------
 
 # Desafio Maeztra
 Olá candidato,
